@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Audio">
+      <UniqueIdentifier>{a53b9a0d-7e1b-4c3f-a754-1fa649b8b456}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Images">
+      <UniqueIdentifier>{8e117008-784f-4f4d-9de2-c41ed02074fa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangeState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Help.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level_1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Brick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Square.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Over.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ammo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level_2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level_3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Finish.wav">
+      <Filter>Audio</Filter>
+    </None>
+    <None Include="Back_in_black.wav">
+      <Filter>Audio</Filter>
+    </None>
+    <None Include="LostWoods.wav">
+      <Filter>Audio</Filter>
+    </None>
+    <None Include="Warning.wav">
+      <Filter>Audio</Filter>
+    </None>
+    <None Include="end_back.bmp">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="Wall.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="Exit.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="Exito.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="finish.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="..\..\Crazy Maze Win\Crazy Maze\SDL_tutorial\g_back.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="game_back.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="Help.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="help_back.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="Helpo.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="maze_bound.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="menu.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="menuo.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="Play.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="Playo.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="maze_bound_2.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="bomb1.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="bomb2.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="bomb3.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="bomb4.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="phasegun_bullet.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="phasegun_bullet_small.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="player.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="player_original.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="stocky.ttf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="game_back_2_3.png">
+      <Filter>Images</Filter>
+    </None>
+  </ItemGroup>
+</Project>
